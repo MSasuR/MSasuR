@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Luis%20Felipe%20Guerrero%20V%C3%A9rtiz&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Generative%20AI%20%26%20LLMs%20%C2%B7%20Google%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" alt="Luis Felipe Guerrero Vértiz — AI Engineer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Luis%20Felipe%20Guerrero%20V%C3%A9rtiz&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Generative%20AI%20and%20LLMs%20%C2%B7%20Google%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" alt="Luis Felipe Guerrero Vértiz — AI Engineer" width="100%">
 </p>
 
 <p align="center">
