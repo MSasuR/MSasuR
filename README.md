@@ -21,7 +21,6 @@
 ```python
 class LuisFelipe:
     role       = "AI Engineer · Cloud Engineer"
-    company    = "Apiux Tecnología"
     location   = "Lima, Perú 🇵🇪"
     experience = "10+ years building production backends"
     focus      = ["LLMs & RAG", "AI agents with tool calling", "Google Cloud", "Odoo ERP"]
